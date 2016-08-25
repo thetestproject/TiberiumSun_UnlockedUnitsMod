@@ -1,0 +1,1 @@
+Place the rules.ini file in your Tiberium Sun root folder.
